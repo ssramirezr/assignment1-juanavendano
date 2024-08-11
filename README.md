@@ -21,5 +21,5 @@
 
 2. **Run the implementation**
    Before running the code install Python from this website https://www.python.org/downloads (skip this step if you've installed Python already).
-   Run the main module using the following command: py main.py
-   Then just type characters following the assignment input rules
+   Run the main module using the following command: py main.py.
+    Then just type characters following the assignment input rules
