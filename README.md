@@ -14,7 +14,8 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ssramirezr/assignment1-juanavendano.git```
+   git clone https://github.com/ssramirezr/assignment1-juanavendano.git
+   ```
    
    Open CMD or PowerShell to navigate to the folder where you cloned the repository (use the cd command).
 
