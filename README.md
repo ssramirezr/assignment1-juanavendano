@@ -1,4 +1,3 @@
-![EAFIT LOGO](https://tecnologiaseafit.com/wp-content/uploads/2022/08/Recurso-1-8.png)
 # Assignment 1 (DFA)
 
 ## Group Members
